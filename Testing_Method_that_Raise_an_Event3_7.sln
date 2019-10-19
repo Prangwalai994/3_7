@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing_Method_that_Raise_an_Event3_7", "Testing_Method_that_Raise_an_Event3_7\Testing_Method_that_Raise_an_Event3_7.csproj", "{C8099583-5DC0-43DD-A120-AE90AD638DD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorLoggerUnitTest3_7", "ErrorLoggerUnitTest3_7\ErrorLoggerUnitTest3_7.csproj", "{80E4AA4E-ED51-4DCE-A4FB-C40B6D10AD88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C8099583-5DC0-43DD-A120-AE90AD638DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8099583-5DC0-43DD-A120-AE90AD638DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8099583-5DC0-43DD-A120-AE90AD638DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E4AA4E-ED51-4DCE-A4FB-C40B6D10AD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E4AA4E-ED51-4DCE-A4FB-C40B6D10AD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E4AA4E-ED51-4DCE-A4FB-C40B6D10AD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E4AA4E-ED51-4DCE-A4FB-C40B6D10AD88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
