@@ -12,7 +12,7 @@ namespace Testing_Method_that_Raise_an_Event3_7.Fundamentals
 
         public event EventHandler<Guid> ErrorLogged;
 
-        private Guid _errorId;
+      
 
         public void Log(string _error)
         {
